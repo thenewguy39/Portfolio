@@ -1,0 +1,39 @@
+{
+    "hero": {
+        "greeting": "RUPAYAN GHOSH",
+        "introduction": "Information Technology,Jadavpur University(2018-22)",
+        "img_profile": "https://lh3.googleusercontent.com/DbbdHbnrTXEzTMwZD_pUFJsPTfippeBuJLYtHkfeSe0B6_Ikn4-68kI6Yi_UpzAWyOamPJfkW7xOeLYxNikBo_SJmQ",
+        "img_background": "https://lh3.googleusercontent.com/8rBcN4ZdxDRQLDYf5GXU5WgHYPSsqpv3KCme5pySQ0aGmWqvDHuNRGWtRiu7d1SHyS0ud3jMsEWnh4lim4lz2XEu7U4"
+    },
+
+    "projects":{
+        "header": "Projects",
+        "subheader": "Check out some of my projects!"
+    },
+
+    "service": {
+        "img_1": "https://lh3.googleusercontent.com/EFuluLQF7TAVOYKhHNfRcX-0OE3oCeQzrd5dsGn3ecIaxubnbwMYJ9OcrG2QPMWB-gRhiO_k-hRFkyzunxGN9amWAg",
+        "img_2": "https://lh3.googleusercontent.com/t4qKJLlVGyrQDwvUH6R9fDE9_J3gYgwL7qEoogrCuFLGn2Kkv0XEsj4-_bPXiYJP0JMZ6cuvHueX2M79vEJTjFFfASY",
+        "img_3": "https://lh3.googleusercontent.com/uOsmQSUxTHHpkXB2B-MJk5FJK16xSEmmr_8qcbjXpkfg7udbyjYugMTe9Thq7fa3iMQe94TmcxKGKt20Jxk3m3b0ow",
+        "img_4": "https://lh3.googleusercontent.com/wV5ezHwg-P-WEeG1pesrNpNBSDATqnTxr4ZTah_wld3ZXW-DbVmAXeAfq5qlyH6OvuKZttRF0nn2K0aaV8SvcI967Q",
+        "img_5": "https://lh3.googleusercontent.com/G23HGLZX7yNkzKWDe8oXRjIGgfznxgg-jKNTmtD2L4MMRPrSuI-77FcNJTK3xEyT2AbOfumIysFx-U3A78TxwbJQyw",
+        "img_6": "https://lh3.googleusercontent.com/MJwNNAhQaXFPTjlofNHh8wcL7Aftu4h0yDP5FTrGC5WZsb9iL9vEIn14Tlgh4K_1y3JIuGh13A1zVw7vdnJW23pLtZ0"
+    },
+
+    "contact": {
+
+        "header": "Get in touch!",
+        "subheader": "Fill out the form below and I will get back to you.",
+        "img_background": "https://lh3.googleusercontent.com/rqxs5LiJBEYpHJgcUgGx19tp9p-R1v5q23dl_0oBUgq-GKFDoGgI1SPXm7yPjSpypVie9uGJeoMxWJrTEzfMSklQ"
+    },
+
+    "image_profile": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c8/c89435a806bbcc8ae090892997f6561881e10fcc_full.jpg",
+    "greeting": "Welcome to my portfolio site.",
+    "introduction": "I am an undergrad at Jadavpur University.",
+    "languages": [
+        {"name": "C++", "years": 1},
+        {"name": "C", "years": 1},
+        {"name": "Python", "years": 2}
+    ]
+
+}
